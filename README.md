@@ -1,4 +1,4 @@
-This repo contains the chat logs between a team member (me) and ChatGPT3.5 for the 2014 Sample Paper for Methods of Mathematical Physics, taught at the University of Edinburgh.
+This repo contains the chat logs between a team member (Polux Gabriel Garcia Elizondo, the writer of this) and ChatGPT3.5 for the 2014 Sample Paper for Methods of Mathematical Physics, taught at the University of Edinburgh.
 
 The files are organized into three individual folders, one per question, and contain both the raw .txt file given by OpenAI and a pre-formated pdf file to improve the reading experience.
 There is also a combined pdf should one wish to have all three questions in a single pdf.
